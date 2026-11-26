@@ -87,7 +87,9 @@ CCPROG3_MCO_2/
 - Exception and Error Handling
 
 ## Developers
-
+- Nucum, Mark Stephen M.
+- Maglente, David Kyle
+  
 Developed as an academic Machine Problem (MCO2) for **CCPROG3 – Object-Oriented Programming**, De La Salle University.
 
 ---
